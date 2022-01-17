@@ -5,4 +5,8 @@
 ### Contact
 - @iamgucci
 - @fireacloud
-- @ifireacloud
+- @fireai-cloud 
+- @/ifireacloud
+
+#### @GitHub Teams: 
+- **[🐼Team Lonán](https://github.com/orgs/firea-cloud/teams/lonan/)**
